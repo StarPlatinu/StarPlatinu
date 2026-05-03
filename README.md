@@ -1,32 +1,34 @@
 <h1 align="center">Hi 👋, I'm Thanh Vu</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
-- ✍ I'm a student of: [FPT University](https://daihoc.fpt.edu.vn/) (Hola).
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/>
+</p>
+<h3 align="center">A passionate Cybersecurity Researcher & Developer from Vietnam 🇻🇳</h3>
 
-- 🌱 I’m currently learning **Java**
-
+- 🔭 Currently working as a **Cybersecurity Researcher** at **FPT**
+- ✍ Student at [FPT University](https://daihoc.fpt.edu.vn/)
+- 🌱 Currently learning **Java** & **Cybersecurity** (Penetration Testing, Security Operations, etc.)
+- 💡 Interested in: Offensive Security, Malware Analysis, Threat Hunting, and Secure Development
 
 ## 📫 How to reach me:
-
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100040723901777" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="#" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="#" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  <a href="https://www.facebook.com/profile.php?id=100040723901777" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="#" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
   </a>
-  <a href="mailto:thanhvp1509@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/windows/48/000000/kaggle.png" alt="Kaggle"/>
+  </a>
+  <a href="mailto:thanhvp1509@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png" alt="Email"/>
   </a>
 </p>
 
-## Skills:
+## 🛠️ Skills & Technologies:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
@@ -38,4 +40,12 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+  <!-- Add cybersecurity related icons if you want -->
 </p>
+
+---
+
+### 🔥 Currently Focusing On:
+- Cybersecurity Research
+- Java Development
+- Secure Coding Practices
